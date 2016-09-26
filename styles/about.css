@@ -1,0 +1,16 @@
+.me_pic img {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+  border: 1px solid #160F29;
+}
+
+.me_pic {
+  text-align: center;
+}
+
+div {
+  padding: 10px;
+  background-color: #2B4141;
+  color: #F3DFC1;
+}
